@@ -1,0 +1,6 @@
+# Project exclude paths
+/dw-chart/target/
+/gmall-canal/target/
+/Gmall-Commom/target/
+/Gmall-Mock/target/
+/gmall-realtime/target/
